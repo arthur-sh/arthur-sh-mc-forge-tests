@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mc_forge_tests:block/niobium_block"
+    }
+  }
+}
