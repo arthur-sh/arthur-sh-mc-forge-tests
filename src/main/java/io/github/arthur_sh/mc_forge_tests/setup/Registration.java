@@ -23,9 +23,3 @@ public class Registration {
         ModBlocks.register();
     }
 }
-// alt + enter importa
-// ctrl + D duplica a linha
-// ctrl + D duplica a linha
-// ctrl + D duplica a linha
-// ctrl + D duplica a linha
-// ctrl + D duplica a linha
