@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mc_forge_tests:niobium_block"
+    }
+  ],
+  "result": {
+    "item": "mc_forge_tests:niobium_ingot",
+    "count": 9
+  }
+}

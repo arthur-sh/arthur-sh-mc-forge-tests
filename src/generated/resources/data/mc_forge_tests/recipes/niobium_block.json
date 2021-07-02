@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mc_forge_tests:niobium_ingot"
+    }
+  },
+  "result": {
+    "item": "mc_forge_tests:niobium_block"
+  }
+}
