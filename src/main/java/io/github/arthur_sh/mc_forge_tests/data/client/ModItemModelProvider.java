@@ -19,8 +19,8 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-//        withExistingParent("niobium_block", modLoc("block/niobium_block"));
-//        withExistingParent("niobium_ore", modLoc("block/niobium_ore"));
+        withExistingParent("niobium_block", modLoc("block/niobium_block"));
+        withExistingParent("niobium_ore", modLoc("block/niobium_ore"));
         ModelFile itemGenerated = getExistingFile(mcLoc("item/generated"));
 
         builder(itemGenerated, "niobium_ingot");
