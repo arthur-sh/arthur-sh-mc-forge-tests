@@ -19,6 +19,7 @@ public class ModBlocks {
                     .strength(3, 10)
                     .harvestLevel(3)
                     .sound(SoundType.STONE)
+                    .requiresCorrectToolForDrops()
                     .harvestTool(ToolType.PICKAXE)
             ));
     public static final RegistryObject<Block> NIOBIUM_BLOCK = register("niobium_block", () ->

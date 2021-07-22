@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:fence_gates"
+    "#forge:storage_blocks/niobium"
   ]
 }

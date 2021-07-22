@@ -16,7 +16,8 @@ public class ModBlockTagsProvider extends BlockTagsProvider {
         super(p_i48256_1_, MC_Forge_Tests.MOD_ID, existingFileHelper);
     }
 
-    protected void registerTags() {
+    @Override
+    protected void addTags() {
         tag(ModTags.Blocks.ORES_NIOBIUM).add(ModBlocks.NIOBIUM_ORE.get());
         tag(Tags.Blocks.ORES).addTag(ModTags.Blocks.ORES_NIOBIUM);
         tag(ModTags.Blocks.STORAGE_BLOCKS_NIOBIUM).add(ModBlocks.NIOBIUM_BLOCK.get());

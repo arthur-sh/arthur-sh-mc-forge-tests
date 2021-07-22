@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "mc_forge_tests:niobium_block"
+    "#forge:ores/niobium"
   ]
 }

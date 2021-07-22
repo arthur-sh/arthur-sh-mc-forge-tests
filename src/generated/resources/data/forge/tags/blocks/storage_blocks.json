@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:rails"
+    "#forge:storage_blocks/niobium"
   ]
 }
